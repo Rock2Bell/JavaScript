@@ -1,1 +1,3 @@
-# My-first
+# JavaScript
+# RockBell
+# OMSU IMIT
